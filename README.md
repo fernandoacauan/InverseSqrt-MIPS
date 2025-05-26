@@ -8,12 +8,6 @@ This project implements the fast inverse square root algorithm in MIPS architect
 
 
 # Team Members: 
-Eduardo Acauan, 
-
-Fernando Acauan, 
-
-Henrique Hiller and 
-
-Rodrigo Pacheco
+Eduardo Acauan(@eduardoacauan), Fernando Acauan(@fernandoacauan), Henrique Hiller(@henriquehiller) and Rodrigo Pacheco(@TheThird4993)
 
 
